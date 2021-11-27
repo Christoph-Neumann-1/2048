@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="2048">
+    <output-path>$PROJECT_DIR$/out/artifacts/2048</output-path>
+    <root id="root">
+      <element id="archive" name="2048.jar">
+        <element id="module-output" name="2048" />
+      </element>
+    </root>
+  </artifact>
+</component>
